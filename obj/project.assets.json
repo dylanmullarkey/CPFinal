@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dylan\\source\\repos\\CPFinal\\CPFinal.csproj",
+      "projectUniqueName": "E:\\VS Code\\contemporary-programming-24\\CPFinal\\CPFinal.csproj",
       "projectName": "CPFinal",
-      "projectPath": "C:\\Users\\Dylan\\source\\repos\\CPFinal\\CPFinal.csproj",
+      "projectPath": "E:\\VS Code\\contemporary-programming-24\\CPFinal\\CPFinal.csproj",
       "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dylan\\source\\repos\\CPFinal\\obj\\",
+      "outputPath": "E:\\VS Code\\contemporary-programming-24\\CPFinal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
